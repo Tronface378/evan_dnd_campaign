@@ -1,3 +1,7 @@
+###### for josh's commandline ease
+```
+cp ../LostMagicDNDNotes/Zevans_dnd_documentation/* evan_dnd_campaign.git/ && cd evan_dnd_campaign.git/ && cp -r evan_dnd.zip evan_dnd_campaign.git/ && git commit -a -m "generic new update" && git push origin main
+```
 # The World of Edmaris
 
 A fantasy campaign setting where ancient threats stir and kingdoms must stand together or fall divided.

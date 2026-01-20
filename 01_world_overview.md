@@ -138,14 +138,6 @@ Guilds form the backbone of Edmaris' response to extraordinary threats. They ope
 
 ---
 
-## The Gathering Storm
-
-Beneath the surface of political tensions and monster attacks, something deeper stirs. Ancient ruins hold secrets better left buried. The gods themselves seem uncertain. And in the darkness, an elder evil (Tharizdun) begins its approach.
-
-The question facing Edmaris is not whether darkness is coming—but whether the kingdom can stand when it arrives.
-
----
-
 ## Related Documents
 
 - [The Arcanum of Edmaris](02_arcanum.md) - Magical college details

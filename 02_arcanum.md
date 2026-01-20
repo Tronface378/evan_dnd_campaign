@@ -138,13 +138,6 @@ The Arcanum of Edmaris serves as:
 - A breeding ground for both heroes and future villains
 - One of the first institutions to recognize that "myth" is becoming **urgent reality**
 
-### The Coming Reckoning
-
-As Tharizdun's approach accelerates, the Arcanum will face a critical choice:
-
-Does it continue to **contain knowledge**—  
-or finally **release it**?
-
 ---
 
 ## Related Locations
