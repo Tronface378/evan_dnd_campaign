@@ -124,14 +124,8 @@ Greyfen is quiet, watchful, and tired.
 
 Greyfen works best as:
 - An early warning town
-- A place where subtle horror appears first
 - A grounded contrast to grand cities and holy sites
-- A base for investigations into undead, cultists, or strange phenomena
 
-Mayor Elric Hallowmere is the kind of man who:
-- Believes the party before others do
-- Helps without fanfare
-- Survives longer than expected—unless the fog finally wins
 
 ---
 

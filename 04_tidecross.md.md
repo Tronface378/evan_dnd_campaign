@@ -78,15 +78,6 @@ Handles the majority of:
 - Coin flows faster here than law can follow
 - Where Bluehaven trades carefully, Tidecross trades **boldly**
 
-### Dark Undercurrents
-
-- Smuggling operations
-- Foreign espionage
-- Political maneuvering
-- Information brokering
-
----
-
 ## ⚖️ Law and Order
 
 ### Security Forces
@@ -158,7 +149,6 @@ He believes fate favors those who act decisively—but never blindly.
 Tidecross feels:
 - **Alive** - Constantly moving and changing
 - **Opportunistic** - Where fortunes are made and lost
-- **On the edge of chaos** - Barely controlled energy
 
 The docks are full, the taverns loud, and the ships keep sailing.
 

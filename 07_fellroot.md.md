@@ -123,7 +123,6 @@ Fellroot feels:
 - Tense
 - Uneasy beneath the surface
 
-As monster attacks increase and the Elderwoods grow more hostile, Fellroot pushes deeper into the forest—and **the forest pushes back**.
 
 Everyone knows:
 

@@ -17,7 +17,7 @@ The Arcanum of Edmaris is the **official magical college of the human kingdom**,
 
 ## Location & Structure
 
-The Arcanum is situated within **Edmaris' capital**, set apart from the rest of the city by wide courtyards, warded walls, and deliberate spacing—a reminder that magic is respected, but never trusted too closely.
+The Arcanum is situated to the south of **Edmaris' capital**, set apart from the rest of the city by wide courtyards, warded walls, and deliberate spacing—a reminder that magic is respected, but never trusted too closely.
 
 ### The Complex Includes
 
@@ -62,6 +62,7 @@ Students are identified through:
 - Royal census testing
 - Shrine reports of uncontrolled magic
 - Recommendations from guilds or local lords
+- self reporting and testing
 
 ### Requirements
 
@@ -88,11 +89,11 @@ The Arcanum is divided into several colleges:
 **Focus**: Shaping matter, practical applications
 
 ### Divination & Scrying
-**Status**: Restricted, monitored constantly  
+**Status**: Restricted, monitored constantly 
 **Focus**: Information gathering, prophecy (limited)
 
 ### Conjuration & Binding
-**Status**: Permitted only under supervision  
+**Status**: Permitted only under supervision, then when licensed it is **heavily** regulated 
 **Focus**: Summoning, planar interaction
 
 ### Necromancy
@@ -129,20 +130,8 @@ Students speak softly in halls not out of reverence, but **caution**. Everyone h
 
 ---
 
-## Narrative Role
-
-The Arcanum of Edmaris serves as:
-
-- The kingdom's primary magical authority
-- A source of partial truths and dangerous omissions
-- A breeding ground for both heroes and future villains
-- One of the first institutions to recognize that "myth" is becoming **urgent reality**
-
----
-
 ## Related Locations
 
-- [Edmaris Capital](03_edmaris_capital.md.md) - Where the Arcanum is located
 - [World Overview](01_world_overview.md) - The broader context
 
 [← Back to Index](README.md)

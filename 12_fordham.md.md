@@ -67,24 +67,12 @@ When trouble comes, the villagers rely on:
 
 ---
 
-## 🌫️ The Shadow of the South
-
-Fordham sits uncomfortably close to:
-
 ### Nearby Threats
 
 - Old roads no longer used
 - Ruins better left unexplored
-- The distant pull of places like the **Crypt of the Ancients**
 
 ### Strange Occurrences
-
-Strange things sometimes wander close:
-- Animals behaving incorrectly
-- Lights flickering far from the fields
-- Sounds carrying across empty land at night
-
-**Response**: The villagers do not chase these mysteries. They close their doors and wait for morning.
 
 ---
 
@@ -185,19 +173,10 @@ The villagers trust him because he never lies about danger—and never exaggerat
 
 ---
 
-## 🔮 Narrative Role
-
-Fordham works best as:
-- A place to show what is at stake for ordinary people
-- An early victim of southern horrors
-- A quiet starting point or tragic waypoint
-- A village that cannot survive prolonged attention from evil
 
 Mayor Rowan Hale is:
 - A grounding, human figure in a fragile place
-- One of the first civilians to believe the party
 - A reminder that leadership is often endurance, not command
-- A man who will sacrifice his position, his reputation, and even his life to get his people out
 
 > If Fordham survives the coming darkness, it will be because Rowan Hale knew **when to let go**.
 

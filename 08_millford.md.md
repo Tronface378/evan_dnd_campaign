@@ -170,8 +170,6 @@ Lord Alderwick personally oversees:
 - Mill output schedules
 - Caravan departure logs
 
-**Secret Measures**: Maintains **emergency grain reserves** hidden across the countryside, unknown even to most of his own staff—a precaution born from old wars and bad winters.
-
 **Policy**: Sabotage of crops or mills under his rule is treated as **treason**.
 
 ### ⚔️ Defense and Preparedness
@@ -216,8 +214,7 @@ The people trust him because he never promises abundance—only **enough**.
 
 Millford works best as:
 - A hub for escort missions and defense contracts
-- A moral reminder of what the heroes are protecting
-- A pressure point for sabotage or famine plots
+- A moral reminder of what the guilds are protecting
 - A place that represents ordinary people's survival
 
 Lord Thane Alderwick is:

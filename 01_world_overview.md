@@ -6,7 +6,7 @@
 
 ## The Kingdom of Edmaris
 
-Edmaris is a kingdom that rose from **trade, order, and law**. It stands as a bastion of human civilization in a world where ancient threats are beginning to stir once more.
+Edmaris is a kingdom that rose from **trade, order, and law**. It stands as a bastion of human civilization in a world where threats are beginning to rise once again
 
 ### Current Ruler
 
@@ -22,7 +22,7 @@ Edmaris is a kingdom that rose from **trade, order, and law**. It stands as a ba
 
 - **Eldemar Threat**: The neighboring nation of Eldemar covets Edmaris' natural resources and has become increasingly aggressive
 - **Monster Attacks**: Frequency of monster attacks is increasing across all settlements
-- **Resource Strain**: Strategic resources (food, metal, timber) are under pressure
+- **Resource Strain**: Strategic resources (food, metal, timber) are under pressure by said monster attacks
 
 ### Security Structure
 
@@ -63,13 +63,22 @@ Guilds form the backbone of Edmaris' response to extraordinary threats. They ope
 
 **Function**: Magic regulation and training
 
+**Locations**: 
+-the Arcanum of Edmaris (serves as the main branch)
+-Local guild branches are only found in major cities
+  -Capitol of Edmaris
+  -Millford
+  -Ironpass
+  -Fellroot
+  -Tidecross
+
 **Responsibilities**:
 - Research and advancement of magical knowledge
-- Training of wizards and sorcerers
+- Training of wizards, sorcerers, and sometimes warlocks (however very limited and **the most regulated and monitored** soource of magic)
 - **Enforcement of magical law**
 
 **Critical Rule**: Magic is a **licensed practice**
-- All individuals with magical ability must either:
+- All individuals with magical ability, other than divine, must either:
   - Undergo training and become licensed
   - Be permanently forbidden from using their abilities
 - **Reporting Unlicensed Mages**: Every citizen's duty
@@ -86,7 +95,6 @@ Guilds form the backbone of Edmaris' response to extraordinary threats. They ope
 - Trains both magical and non-magical healers
 
 **Training Location**: [Raven's Reach](mentioned) - The Holy Sanctuary
-
 ---
 
 ## Character Training Paths
@@ -118,8 +126,9 @@ Guilds form the backbone of Edmaris' response to extraordinary threats. They ope
 
 **Relationship**: Transactional alliance
 - Trade-based relationship
-- Provider of high-quality weapons and armor
+- Provider of high-quality weapons, armor, and runecraft
 - Mutual respect but limited deeper ties
+- Knowledge of artifacts
 
 **Key Export**: Superior crafted arms and armor
 
@@ -132,7 +141,7 @@ Guilds form the backbone of Edmaris' response to extraordinary threats. They ope
 **Relationship**: Limited contact
 - Secretive and isolated
 - Selective engagement with outside world
-- Ancient knowledge keepers
+- Keepers of ancient knowledge
 
 [Read more about Suncrest →](13_suncrest.md.md)
 

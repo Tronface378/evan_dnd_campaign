@@ -44,7 +44,7 @@ Brookmere survives on:
 ### Guild Presence
 
 Guild presence is minimal:
-- A small traders' guild hall
+- A small multi purpose guild hall
 - Independent fishermen and millers
 - Occasional adventurer contracts when the lake behaves strangely
 
@@ -126,8 +126,6 @@ Mayor Fenwick is quietly preparing for the day it doesn't.
 
 Brookmere works best as:
 - A peaceful respite between dangers
-- A place where subtle threats first appear
-- A town that represents what heroes fight to preserve
 - A location vulnerable to water-based or nature-corrupted threats
 
 ---

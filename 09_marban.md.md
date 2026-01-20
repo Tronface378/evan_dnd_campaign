@@ -140,7 +140,6 @@ People don't linger unless they must.
 ## 🔮 Narrative Role
 
 Marban works best as:
-- A place where threats become visible before they are named
 - A staging area for dangerous expeditions (Ashen Hollow lies south)
 - A town that cracks before it breaks
 - A crossroads where different factions and rumors collide
