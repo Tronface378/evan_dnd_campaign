@@ -85,7 +85,6 @@ A fantasy campaign setting where ancient threats stir and kingdoms must stand to
 
 ## Campaign Themes
 
-- **Rising Darkness**: Ancient evil (Tharizdun) approaches
 - **Fragile Order**: Human kingdoms struggling to maintain control
 - **Monster Surge**: Increasing attacks on settlements
 - **Institutional Tension**: Guilds, nobles, and crown vie for influence
