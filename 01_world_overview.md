@@ -3,6 +3,7 @@
 [← Back to Index](README.md)
 
 ---
+![Uploading world map.webp…]()
 
 ## The Kingdom of Edmaris
 
